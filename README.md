@@ -1,17 +1,19 @@
-# 🤖 Robotics & Automation | 💻 Embedded Systems
+# 7echkilla
+
+**`🤖 Robotics & Automation | 💻 Embedded Systems`**
 
 I’m a final-year Mechatronics Engineering (Honors) student at the **University of Sydney**, passionate about bridging **hardware, software, and intelligent control**. My work spans robotics, embedded systems, CAD design, and machine learning; all aimed at solving **real-world engineering challenges**.
 
 ---
 
-## 🔭 Current Focus
+### 🔭 Current Focus
 - Developing **ROS2-based robotic perception & control system for hexapod**  
 - Building **real-time embedded systems** on Jetson Nano & microcontrollers  
 - Researching **grain structure prediction for strength in additively manufactured alloys** (Thesis)
 
 ---
 
-## 🛠️ Languages & Tools
+### 🛠️ Languages & Tools
 
 <p align="center">
   <!-- Core Programming -->
@@ -43,7 +45,7 @@ I’m a final-year Mechatronics Engineering (Honors) student at the **University
   <img src="https://skillicons.dev/icons?i=unreal,kotlin" />
 </p>
 
-### 🔧 Other Tools & Frameworks (not in skillicons.dev)
+#### 🔧 Other Tools & Frameworks (not in skillicons.dev)
 - **Programming / HDL:** Embedded C, Assembly (x86, ARM), Verilog, SystemVerilog  
 - **Microcontrollers:** STM32, ESP32, RP2040, SAMv71  
 - **Single-Board Computers:** NVIDIA Jetson (Nano, Orin)  
@@ -53,7 +55,7 @@ I’m a final-year Mechatronics Engineering (Honors) student at the **University
 
 ---
 
-## ⚡️ GitHub Stats & Activity
+### ⚡️ GitHub Stats & Activity
 
 <div align="center">
   <!-- GitHub Contribution Stats -->
