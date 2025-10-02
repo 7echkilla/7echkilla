@@ -17,7 +17,7 @@ I’m a final-year Mechatronics Engineering (Honors) student at the **University
 
 <p align="center">
   <!-- Core Programming -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,r,bash" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,r,bash,kotlin" />
 </p>
 
 <p align="center">
@@ -32,17 +32,12 @@ I’m a final-year Mechatronics Engineering (Honors) student at the **University
 
 <p align="center">
   <!-- Simulation & CAD -->
-  <img src="https://skillicons.dev/icons?i=matlab,blender" />
+  <img src="https://skillicons.dev/icons?i=matlab,blender,unreal" />
 </p>
 
 <p align="center">
   <!-- DevOps / Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,latex" />
-</p>
-
-<p align="center">
-  <!-- Occasional / Hobby -->
-  <img src="https://skillicons.dev/icons?i=unreal,kotlin" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,latex" />
 </p>
 
 #### 🔧 Other Tools & Frameworks (not in skillicons.dev)
