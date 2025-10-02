@@ -57,9 +57,9 @@ I’m a final-year Mechatronics Engineering (Honors) student at the **University
 
 <div align="center">
   <!-- GitHub Contribution Stats -->
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=psai8449&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=7echkilla&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <!-- Top Languages -->
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psai8449&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" /> 
+  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7echkilla&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" /> 
 </div>
 
 <p align="center">
